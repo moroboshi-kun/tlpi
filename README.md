@@ -1,9 +1,11 @@
 # Source Code for "The Linux Programming Interface" by Michael Kerrisk
 ---
 
-This is my repo for storing and accessing this code. If you want to download 
+This is my repo for storing the code for the book. If you want to download 
 the original compressed tarballs of the code from the author's site 
-(or just check it out in general), follow [this link] (https://www.man7.org/tlpi/code/). 
+(or just check it out in general), use the following link:
+
+[TLPI] (https://www.man7.org/tlpi/code/). 
 
 The code has two versions. A distribution version and a book version. According to
 the author, the distribution version includes extra material not shown in the book,
